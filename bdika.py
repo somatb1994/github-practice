@@ -1,5 +1,7 @@
-a = int(input("type high: "))
-b = int(input("type base: "))
-h = int(input("type the gova: "))
+a = 5
+b = 3
+c = 2 
+d = 8
+e = 3
 
-print("the resulte is: ",(a + b)*h/2)
+print((a>d)| (d>c)| (a>b) & (b==e) & (c!=d))
